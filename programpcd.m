@@ -43,7 +43,7 @@ imshow(citra2b);
 
 #menampilkan histogram 
 hist(citra2a);
-hist(citra2a);
+hist(citra2b);
 
 #sobel
 Sobel_x = [ -1 0 1 ; -2 0 2; -1 0 1 ]
